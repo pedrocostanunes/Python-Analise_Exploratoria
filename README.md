@@ -2,7 +2,7 @@
 
 Olá! Tudo bem por aí? Por aqui tudo ótimo! 
 
-Este repositório funciona como uma sessão de portfólio, e todo o trabalho feito aqui é para expor algumas das minhas skills como analista de dados utilizando python. Neste projeto, utilizei o dataset "*Brazilian E-Commerce Public Dataset by Olist*", que está disponível no Kaggle através [deste link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). E o objetivo deste trabalho é preparar e explorar os dados para responder as seguintes perguntas sobre performance de **pedidos entregues**:
+Este repositório funciona como uma sessão de portfólio, e todo o trabalho feito aqui é para expor algumas das minhas skills como analista de dados em python. Neste projeto, utilizei o dataset "*Brazilian E-Commerce Public Dataset by Olist*", que está disponível no Kaggle através [deste link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). O objetivo deste trabalho é preparar e explorar os dados para responder as seguintes perguntas sobre performance de **pedidos entregues**:
 
 - Existe diferença do tempo de entrega por estado?
 - Quais são as cidades que tem o maior tempo de entrega médio?
